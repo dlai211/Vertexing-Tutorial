@@ -20,7 +20,6 @@
  - Discussion about progress updates for [NW] and raise any questions from [NW].
 
 ### Tuesday (4 pm -- 5 pm)
- - Not required
  - Expect full completeness for [PW] and at least 80% progress for [NW] (accept excusable reason, such as the unexpected difficulty of the project, sickness, school-related reasons, family-related reasons, etc)
  - Practice for presentation for Wednesday.
 
