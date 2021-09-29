@@ -1,4 +1,4 @@
-# Vertexing-Tutorial
+# Vertexing Reconstruction
 
 ## Meeting time
  - To avoid confusion, [PW] = previous week/last week & [NW] = next week/this week.
