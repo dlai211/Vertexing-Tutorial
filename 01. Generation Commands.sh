@@ -1,5 +1,6 @@
 # To run this script, use ./gen.sh <n_events> <n_pu> <acts_path>
-# make sure you have execution permission
+# make sure your .sh file is named 'gen.sh'
+# make sure you have execution permission. If not, run 'chmod u+x gen.sh' to grant the permission.
 n_events=$1 
 n_pu=$2
 acts_path=$3 
